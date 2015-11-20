@@ -1,2 +1,2 @@
 # psycatron.github.io
-NOREAD
+Nothing to read for now
