@@ -1,0 +1,22 @@
+.heading {
+	display: block;
+	background-color: LightGray;
+	color: blue;
+	border: 1px solid blue;
+	text-align: center;
+	padding: 10px;
+}
+
+table {
+	padding: 5px;
+	background-color: red;
+	border: none;
+	text-align: center;
+}
+
+.footer {
+	color: Blue;
+	text-indent: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px; 
+}
