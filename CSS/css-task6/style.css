@@ -1,0 +1,47 @@
+table {
+	width: 100%;
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 5px;
+}
+
+td {
+	border: 1px solid black;
+}
+
+.head {
+	font-size: 20px;
+	background-color: #A9A9A9;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.first {
+	background-color: #87CEEB;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.foot {
+	background-color: #6A5ACD;
+	text-align: right;
+	padding: 5px;
+	border: 1px solid black;
+}
+
+.number {
+	background-color: #8678E9;
+	width: 50px;
+	padding: 5px;
+	font-weight: bold;
+}
+
+.luton {
+	background-color: #A9A9A9;
+	padding: 5px;
+}
+
+.heathrow {
+	background-color: #696969;
+	padding: 5px;
+}
